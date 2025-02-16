@@ -8,7 +8,7 @@ You can check me on other platforms via going to the sites that my links go to.
 
 And always remember......🅰
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=horibyten&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=horibyte&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 horibyte/horibyte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
